@@ -1,0 +1,6 @@
+name: neo4j-graph-examples-healthcare-analytics
+title: Healthcare Analytics Graph Examples
+version: '1'
+asciidoc:
+  attributes:
+    img: ''
