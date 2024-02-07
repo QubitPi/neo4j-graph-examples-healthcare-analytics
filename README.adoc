@@ -11,7 +11,7 @@
 :zip-file: false
 :use-plugin: false
 :zip-file: false
-:target-db-version: 5.0+
+:target-db-version: 5.0
 :bloom-perspective: bloom/healthcare%20analytics%20perspective.json
 :guide: documentation/healthcare-analytics.adoc
 :model: documentation/img/model.svg
